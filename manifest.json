@@ -1,0 +1,3 @@
+{"name":"Mi Tiempo","short_name":"Mi Tiempo","start_url":".","display":"standalone","lang":"es",
+ "background_color":"#e0f2fe","theme_color":"#0ea5e9",
+ "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
